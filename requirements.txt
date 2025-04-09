@@ -1,0 +1,5 @@
+pandas
+torchsummary
+scikit-learn
+matplotlib
+opendatasets
